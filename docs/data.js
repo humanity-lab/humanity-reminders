@@ -14,7 +14,7 @@ const REMINDERS = [
     tag: "#equality_under_the_law",
     text:
       "Humans have always lived in community. Every family, " +
-      "every town, every generation includes unique and special, " +
+      "every town, every generation includes unique and special " +
       " people; we make room for one another.",
   },
   {
@@ -66,7 +66,7 @@ const REMINDERS = [
     tag: "#family_integrity",
     text:
       "Humans have always held family close, by blood, by choice, " +
-      "and by devotion, and every generation knows that freedom to love " +
+      "and by devotion; every generation knows that freedom to love " +
       "is the very heart and joy of life.",
   },
 ];
